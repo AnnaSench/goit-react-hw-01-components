@@ -8,7 +8,7 @@ export const StatisticWrapp = styled.section`
   margin-top: 20px;
   border-color: black;
   border: solid 0.1em;
-  box-shadow: 1px 1px grey;
+  
   border-radius: 5px;
 `;
 
@@ -40,7 +40,8 @@ export const StatisticItem = styled.li`
   flex-direction: column;
   width: 60px;
   text-align: center;
-  background-color: #3b5998;
+  background-color:  #2196F3;
+
 `;
 
 export const StatisticLabel = styled.span`

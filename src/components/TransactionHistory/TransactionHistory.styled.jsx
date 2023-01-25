@@ -1,13 +1,10 @@
 import styled from "styled-components";
 
 export const Table = styled.table`
-  width: 700px;
+  width: 500px;
   margin-top: 40px;
   margin-bottom: 40px;
-  border-color: black;
-  border: solid 0.1em;
-  box-shadow: 1px 1px grey;
-  border-radius: 5px;
+ 
 `;
 
 export const TableHead = styled.thead`
@@ -20,7 +17,8 @@ export const TableHeadElement = styled.tr`
 
 export const TableHeadColumn = styled.th`
   height: 40px;
-  background-color: #3b5998;
+  background-color: #2196F3;
+
   font-size: 22px;
   color: white;
 `;

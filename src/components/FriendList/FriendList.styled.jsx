@@ -18,9 +18,7 @@ export const List = styled.li`
   border-radius: 5px;
   padding: 12px;
   gap: 25px;
-  box-shadow: rgb(50 50 93 / 25%) 0px 50px 100px -20px,
-    rgb(0 0 0 / 30%) 0px 30px 60px -30px,
-    rgb(10 37 64 / 35%) 0px -2px 6px 0px inset; ;
+
 `;
 
 export const Status = styled.span`

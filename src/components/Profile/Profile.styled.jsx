@@ -6,9 +6,9 @@ export const ProfileContainer = styled.div`
   font-size: 25px;
   border-radius: 5px;
   overflow: hidden;
-  border-color: black;
-  border: solid 0.1em;
-  box-shadow: 1px 1px grey;
+  border-color: #dfdede;
+  border: solid 1px;
+
 `;
 
 export const WrapDescription = styled.div`
@@ -44,7 +44,8 @@ export const List = styled.ul`
   width: 100%;
   list-style: none;
   display: flex;
-  background-color: #3b5998;
+  background-color: #2196F3;
+
 `;
 
 export const ListItem = styled.li`
